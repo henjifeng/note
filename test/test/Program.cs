@@ -11,6 +11,7 @@ namespace test
         static void Main(string[] args)
         {
             Console.WriteLine("这是一个测试程序  运行在vs2013  期望能运行在vs2017上");
+            Console.WriteLine("测试代码上传");
             Console.ReadKey();
         }
     }

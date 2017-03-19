@@ -4,3 +4,9 @@ E:\test\note\test\test\bin\Debug\test.pdb
 E:\test\note\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
 E:\test\note\test\test\obj\Debug\test.exe
 E:\test\note\test\test\obj\Debug\test.pdb
+E:\study\c_sharp\note\test\test\bin\Debug\test.exe.config
+E:\study\c_sharp\note\test\test\obj\Debug\test.exe
+E:\study\c_sharp\note\test\test\obj\Debug\test.pdb
+E:\study\c_sharp\note\test\test\bin\Debug\test.exe
+E:\study\c_sharp\note\test\test\bin\Debug\test.pdb
+E:\study\c_sharp\note\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
